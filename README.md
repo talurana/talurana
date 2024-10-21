@@ -20,8 +20,3 @@ I became interested in Data Science during my undergraduate degree and realised 
 
 ---
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/talurana)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/talurana)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg' alt='mail-dot-ru' height='40'>](mailto:tarasova.ulya@gmail.com)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=talurana)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talurana)](https://github.com/anuraghazra/github-readme-stats)
-
